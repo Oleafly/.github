@@ -6,10 +6,11 @@
 
 **Open, local-first infrastructure for research, writing, and publishing.**
 
-Oleafly is a free, open-source workspace and the tooling around it. A desktop
-studio to write, compile, and publish documents in LaTeX, Typst, and Markdown,
-a template marketplace, and the website and docs that go with them. Everything
-runs on your machine, keeps your work as plain files, and stays yours.
+Oleafly is a free, open-source workspace and the tooling around it. A powerful
+desktop research studio to write, compile, and publish documents in LaTeX,
+Typst, and Markdown, a template marketplace, and the website and docs that go
+with them. Everything runs on your machine, keeps your work as plain files,
+and stays yours.
 
 <img src="assets/banner.png" alt="Oleafly studio" width="100%" />
 
@@ -19,7 +20,7 @@ runs on your machine, keeps your work as plain files, and stays yours.
 
 | Project | What it is |
 |---|---|
-| [**Oleafly**](https://github.com/Oleafly/Oleafly) | The desktop studio. Write, compile, version, and publish LaTeX, Typst, and Markdown with offline AI, Git, and GitHub sync. |
+| [**Oleafly**](https://github.com/Oleafly/Oleafly) | The powerful desktop research studio. Write, compile, version, and publish LaTeX, Typst, and Markdown with offline AI, Git, and GitHub sync. |
 | [**oleafly-web**](https://github.com/Oleafly/oleafly-web) | The website and product docs at [oleafly.com](https://oleafly.com). |
 | [**template-packs**](https://github.com/Oleafly/template-packs) | A growing, downloadable template marketplace the app fetches on demand. |
 
