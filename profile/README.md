@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/logo.png" alt="Oleafly" width="180" />
+<img src="https://assets.oleafly.com/images/org/logo.png" alt="Oleafly" width="180" />
 
 # Oleafly
 
@@ -12,7 +12,7 @@ Typst, and Markdown, a template marketplace, and the website and docs that go
 with them. Everything runs on your machine, keeps your work as plain files,
 and stays yours.
 
-<img src="assets/banner.png" alt="Oleafly studio" width="100%" />
+<img src="https://assets.oleafly.com/images/org/banner.png" alt="Oleafly studio" width="100%" />
 
 </div>
 
