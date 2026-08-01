@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.png" alt="Oleafly" width="100%" />
+<img src="assets/logo.png" alt="Oleafly" width="180" />
 
 # Oleafly
 
@@ -11,9 +11,9 @@ studio to write, compile, and publish documents in LaTeX, Typst, and Markdown,
 a template marketplace, and the website and docs that go with them. Everything
 runs on your machine, keeps your work as plain files, and stays yours.
 
-</div>
+<img src="assets/banner.png" alt="Oleafly studio" width="100%" />
 
----
+</div>
 
 ## Projects
 
