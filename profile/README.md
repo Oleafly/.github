@@ -23,6 +23,7 @@ and stays yours.
 | [**Oleafly**](https://github.com/Oleafly/Oleafly) | The powerful desktop research studio. Write, compile, version, and publish LaTeX, Typst, and Markdown with offline AI, Git, and GitHub sync. |
 | [**oleafly-web**](https://github.com/Oleafly/oleafly-web) | The website and product docs at [oleafly.com](https://oleafly.com). |
 | [**template-packs**](https://github.com/Oleafly/template-packs) | A growing, downloadable template marketplace the app fetches on demand. |
+| [**DocMut**](https://github.com/prajwal-svm/docmut) | AST-based document mutation testing for LaTeX, Typst, and Markdown—controlled faults for repair benchmarks and tooling. |
 
 ## What we're about
 
