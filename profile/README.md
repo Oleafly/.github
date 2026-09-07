@@ -78,15 +78,15 @@ Bring a paper you're working on. Tell us where you get stuck. A useful bug
 report, a template for your field, or a contribution to the editor can make
 the next researcher's day easier.
 
-[Join the discussion](https://github.com/Oleafly/Oleafly/discussions) ·
-[Report an issue](https://github.com/Oleafly/Oleafly/issues) ·
-[Contribute](https://github.com/Oleafly/Oleafly/blob/main/CONTRIBUTING.md)
-
 <div align="center">
 
 **[Start your next paper in Oleafly](https://github.com/Oleafly/Oleafly/releases/latest)**
 
-If Oleafly earns a place in your workflow, [give it a star](https://github.com/Oleafly/Oleafly)
+If Oleafly earns a place in your workflow, [give it a star ⭐](https://github.com/Oleafly/Oleafly)
 so another researcher can find it.
+
+[Join the discussion](https://github.com/Oleafly/Oleafly/discussions) ·
+[Report an issue](https://github.com/Oleafly/Oleafly/issues) ·
+[Contribute](https://github.com/Oleafly/Oleafly/blob/main/CONTRIBUTING.md)
 
 </div>
