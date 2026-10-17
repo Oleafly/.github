@@ -38,51 +38,51 @@ ordinary folder on your computer, so your work never depends on us.
 <table>
   <tr>
     <td width="33%" valign="top">
-      <img src="https://raw.githubusercontent.com/Oleafly/.github/main/profile/assets/icons/collab.webp" width="52" alt="" /><br />
+      <img src="https://raw.githubusercontent.com/Oleafly/.github/main/profile/assets/icons-sky/collab.webp" width="52" alt="" /><br />
       <b><a href="https://oleafly.com/docs/collaboration/">Write together, live</a></b><br />
       <sub>Named cursors, threaded comments and as many co-authors as you need, on an Oleafly Server your group runs. Offline edits merge when you reconnect.</sub>
     </td>
     <td width="33%" valign="top">
-      <img src="https://raw.githubusercontent.com/Oleafly/.github/main/profile/assets/icons/formats.webp" width="52" alt="" /><br />
+      <img src="https://raw.githubusercontent.com/Oleafly/.github/main/profile/assets/icons-sky/formats.webp" width="52" alt="" /><br />
       <b><a href="https://oleafly.com/docs/engines/">Three formats, no setup</a></b><br />
       <sub>LaTeX, Typst and Markdown in one app. Tectonic, Typst and Pandoc come bundled, so there's no TeX install.</sub>
     </td>
     <td width="33%" valign="top">
-      <img src="https://raw.githubusercontent.com/Oleafly/.github/main/profile/assets/icons/ai.webp" width="52" alt="" /><br />
+      <img src="https://raw.githubusercontent.com/Oleafly/.github/main/profile/assets/icons-sky/ai.webp" width="52" alt="" /><br />
       <b><a href="https://oleafly.com/docs/ai-setup/">AI you choose</a></b><br />
       <sub>A key for one of 10 providers, a local model through Ollama, or one of 14 CLI agents such as Claude Code and Codex. Every edit arrives as a diff you review.</sub>
     </td>
   </tr>
   <tr>
     <td width="33%" valign="top">
-      <img src="https://raw.githubusercontent.com/Oleafly/.github/main/profile/assets/icons/cite.webp" width="52" alt="" /><br />
+      <img src="https://raw.githubusercontent.com/Oleafly/.github/main/profile/assets/icons-sky/cite.webp" width="52" alt="" /><br />
       <b><a href="https://oleafly.com/docs/literature-search/">Find and cite</a></b><br />
       <sub>Search arXiv, Semantic Scholar, Crossref, PubMed and OpenAlex at once. Cite from Zotero, BibTeX or RIS as you type.</sub>
     </td>
     <td width="33%" valign="top">
-      <img src="https://raw.githubusercontent.com/Oleafly/.github/main/profile/assets/icons/tasks.webp" width="52" alt="" /><br />
+      <img src="https://raw.githubusercontent.com/Oleafly/.github/main/profile/assets/icons-sky/tasks.webp" width="52" alt="" /><br />
       <b><a href="https://oleafly.com/docs/research-tasks/">Research Tasks</a></b><br />
       <sub>Give an agent a brief. It works in its own copy of the project while you keep writing, and you apply what you like.</sub>
     </td>
     <td width="33%" valign="top">
-      <img src="https://raw.githubusercontent.com/Oleafly/.github/main/profile/assets/icons/preflight.webp" width="52" alt="" /><br />
+      <img src="https://raw.githubusercontent.com/Oleafly/.github/main/profile/assets/icons-sky/preflight.webp" width="52" alt="" /><br />
       <b><a href="https://oleafly.com/docs/preflight/">Ready to submit</a></b><br />
       <sub>Preflight checks the build, venue rules, ATS parsing, accessibility, references and leftover metadata before you send.</sub>
     </td>
   </tr>
   <tr>
     <td width="33%" valign="top">
-      <img src="https://raw.githubusercontent.com/Oleafly/.github/main/profile/assets/icons/diagrams.webp" width="52" alt="" /><br />
+      <img src="https://raw.githubusercontent.com/Oleafly/.github/main/profile/assets/icons-sky/diagrams.webp" width="52" alt="" /><br />
       <b><a href="https://oleafly.com/docs/figures-diagrams/">Figures and diagrams</a></b><br />
       <sub>Sketch on a canvas and get TikZ, Typst or Mermaid back.</sub>
     </td>
     <td width="33%" valign="top">
-      <img src="https://raw.githubusercontent.com/Oleafly/.github/main/profile/assets/icons/git.webp" width="52" alt="" /><br />
+      <img src="https://raw.githubusercontent.com/Oleafly/.github/main/profile/assets/icons-sky/git.webp" width="52" alt="" /><br />
       <b><a href="https://oleafly.com/docs/git-history/">Yours, in Git</a></b><br />
       <sub>Plain folders, a checkpoint after every good compile, and a Git panel that publishes to GitHub.</sub>
     </td>
     <td width="33%" valign="top">
-      <img src="https://raw.githubusercontent.com/Oleafly/.github/main/profile/assets/icons/templates.webp" width="52" alt="" /><br />
+      <img src="https://raw.githubusercontent.com/Oleafly/.github/main/profile/assets/icons-sky/templates.webp" width="52" alt="" /><br />
       <b><a href="https://oleafly.com/templates/">Templates</a></b><br />
       <sub>1,800+ templates in 24 packs for papers, theses, CVs, slides and posters.</sub>
     </td>
@@ -128,23 +128,23 @@ ordinary folder on your computer, so your work never depends on us.
 
 <table>
   <tr>
-    <td width="72" align="center"><img src="https://raw.githubusercontent.com/Oleafly/.github/main/profile/assets/icons/app.webp" width="48" alt="" /></td>
+    <td width="72" align="center"><img src="https://raw.githubusercontent.com/Oleafly/.github/main/profile/assets/icons-sky/app.webp" width="48" alt="" /></td>
     <td><b><a href="https://github.com/Oleafly/Oleafly">Oleafly</a></b><br />The desktop app. Write, compile, collaborate, work with agents and get a paper ready to submit.</td>
   </tr>
   <tr>
-    <td width="72" align="center"><img src="https://raw.githubusercontent.com/Oleafly/.github/main/profile/assets/icons/server.webp" width="48" alt="" /></td>
+    <td width="72" align="center"><img src="https://raw.githubusercontent.com/Oleafly/.github/main/profile/assets/icons-sky/server.webp" width="48" alt="" /></td>
     <td><b><a href="https://github.com/Oleafly/oleafly-server">Oleafly Server</a></b><br />Run your own collaboration server: one-command install, an admin console and single sign-on. Read <a href="https://oleafly.com/security/">how it handles security</a>.</td>
   </tr>
   <tr>
-    <td width="72" align="center"><img src="https://raw.githubusercontent.com/Oleafly/.github/main/profile/assets/icons/templates.webp" width="48" alt="" /></td>
+    <td width="72" align="center"><img src="https://raw.githubusercontent.com/Oleafly/.github/main/profile/assets/icons-sky/templates.webp" width="48" alt="" /></td>
     <td><b><a href="https://github.com/Oleafly/template-packs">Template packs</a></b><br />Openly licensed templates for papers, theses, CVs, slides, posters and reports.</td>
   </tr>
   <tr>
-    <td width="72" align="center"><img src="https://raw.githubusercontent.com/Oleafly/.github/main/profile/assets/icons/web.webp" width="48" alt="" /></td>
+    <td width="72" align="center"><img src="https://raw.githubusercontent.com/Oleafly/.github/main/profile/assets/icons-sky/web.webp" width="48" alt="" /></td>
     <td><b><a href="https://oleafly.com">oleafly.com</a></b><br />Downloads, docs, a directory of 5,000+ templates and free browser tools for LaTeX.</td>
   </tr>
   <tr>
-    <td width="72" align="center"><img src="https://raw.githubusercontent.com/Oleafly/.github/main/profile/assets/icons/docmut.webp" width="48" alt="" /></td>
+    <td width="72" align="center"><img src="https://raw.githubusercontent.com/Oleafly/.github/main/profile/assets/icons-sky/docmut.webp" width="48" alt="" /></td>
     <td><b><a href="https://github.com/prajwal-svm/docmut">DocMut</a></b><br />Inject controlled faults into LaTeX, Typst and Markdown documents to test repair tools and agents.</td>
   </tr>
 </table>
@@ -157,18 +157,18 @@ the next researcher.
 
 <table>
   <tr>
-    <td align="center" width="20%"><a href="https://oleafly.com/discord"><img src="https://raw.githubusercontent.com/Oleafly/.github/main/profile/assets/icons/discord.webp" width="52" alt="" /><br /><b>Discord</b></a><br /><sub>Chat with the team</sub></td>
-    <td align="center" width="20%"><a href="https://github.com/Oleafly/Oleafly/discussions"><img src="https://raw.githubusercontent.com/Oleafly/.github/main/profile/assets/icons/discussions.webp" width="52" alt="" /><br /><b>Discussions</b></a><br /><sub>Ideas and questions</sub></td>
-    <td align="center" width="20%"><a href="https://x.com/OleaflyHQ"><img src="https://raw.githubusercontent.com/Oleafly/.github/main/profile/assets/icons/x.webp" width="52" alt="" /><br /><b>@OleaflyHQ</b></a><br /><sub>Release news</sub></td>
-    <td align="center" width="20%"><a href="https://github.com/Oleafly/Oleafly/blob/main/CONTRIBUTING.md"><img src="https://raw.githubusercontent.com/Oleafly/.github/main/profile/assets/icons/contribute.webp" width="52" alt="" /><br /><b>Contribute</b></a><br /><sub>Code and templates</sub></td>
-    <td align="center" width="20%"><a href="https://github.com/Oleafly/Oleafly/security/policy"><img src="https://raw.githubusercontent.com/Oleafly/.github/main/profile/assets/icons/security.webp" width="52" alt="" /><br /><b>Security</b></a><br /><sub>Report privately</sub></td>
+    <td align="center" width="20%"><a href="https://oleafly.com/discord"><img src="https://raw.githubusercontent.com/Oleafly/.github/main/profile/assets/icons-sky/discord.webp" width="52" alt="" /><br /><b>Discord</b></a><br /><sub>Chat with the team</sub></td>
+    <td align="center" width="20%"><a href="https://github.com/Oleafly/Oleafly/discussions"><img src="https://raw.githubusercontent.com/Oleafly/.github/main/profile/assets/icons-sky/discussions.webp" width="52" alt="" /><br /><b>Discussions</b></a><br /><sub>Ideas and questions</sub></td>
+    <td align="center" width="20%"><a href="https://x.com/OleaflyHQ"><img src="https://raw.githubusercontent.com/Oleafly/.github/main/profile/assets/icons-sky/x.webp" width="52" alt="" /><br /><b>@OleaflyHQ</b></a><br /><sub>Release news</sub></td>
+    <td align="center" width="20%"><a href="https://github.com/Oleafly/Oleafly/blob/main/CONTRIBUTING.md"><img src="https://raw.githubusercontent.com/Oleafly/.github/main/profile/assets/icons-sky/contribute.webp" width="52" alt="" /><br /><b>Contribute</b></a><br /><sub>Code and templates</sub></td>
+    <td align="center" width="20%"><a href="https://github.com/Oleafly/Oleafly/security/policy"><img src="https://raw.githubusercontent.com/Oleafly/.github/main/profile/assets/icons-sky/security.webp" width="52" alt="" /><br /><b>Security</b></a><br /><sub>Report privately</sub></td>
   </tr>
 </table>
 
 <div align="center">
 <br />
 
-<a href="https://github.com/Oleafly/Oleafly/releases/latest"><img src="https://raw.githubusercontent.com/Oleafly/.github/main/profile/assets/icons/download.webp" width="44" alt="" /></a>
+<a href="https://github.com/Oleafly/Oleafly/releases/latest"><img src="https://raw.githubusercontent.com/Oleafly/.github/main/profile/assets/icons-sky/download.webp" width="44" alt="" /></a>
 
 **[Start your next paper in Oleafly](https://github.com/Oleafly/Oleafly/releases/latest)**
 
