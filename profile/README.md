@@ -1,4 +1,4 @@
-<!-- Images live in profile/assets. Light and dark versions swap with GitHub's theme. -->
+<!-- Generated from one template for every language. Images live in profile/assets; light and dark versions swap with GitHub's theme. -->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Oleafly/.github/main/profile/assets/banner-dark.webp" />
@@ -13,15 +13,11 @@
 **[Templates](https://oleafly.com/templates/)** &nbsp;·&nbsp;
 **[Discord](https://oleafly.com/discord)**
 
+<sub>[Deutsch](https://github.com/Oleafly/.github/blob/main/profile/README.de.md) | **English** | [Español](https://github.com/Oleafly/.github/blob/main/profile/README.es.md) | [Français](https://github.com/Oleafly/.github/blob/main/profile/README.fr.md) | [日本語](https://github.com/Oleafly/.github/blob/main/profile/README.ja.md) | [한국어](https://github.com/Oleafly/.github/blob/main/profile/README.ko.md) | [Português](https://github.com/Oleafly/.github/blob/main/profile/README.pt.md) | [Русский](https://github.com/Oleafly/.github/blob/main/profile/README.ru.md) | [中文](https://github.com/Oleafly/.github/blob/main/profile/README.zh.md) | [العربية](https://github.com/Oleafly/.github/blob/main/profile/README.ar.md)</sub>
+
 </div>
 
-Oleafly is a free, open-source desktop app for research writing. You write
-LaTeX, Typst or Markdown with the compiled PDF beside your source, and the rest
-of the paper's work happens in the same window: finding and citing sources,
-drawing figures, checking a submission, and handing a section to an AI
-assistant or a coding agent when you want the help. Co-authors can edit with
-you in real time through a server your group runs. Every project is still an
-ordinary folder on your computer, so your work never depends on us.
+Oleafly is a free, open-source desktop app for research writing. You write LaTeX, Typst or Markdown with the compiled PDF beside your source, and the rest of the paper's work happens in the same window: finding and citing sources, drawing figures, checking a submission, and handing a section to an AI assistant or a coding agent when you want the help. Co-authors can edit with you in real time through a server your group runs. Every project is still an ordinary folder on your computer, so your work never depends on us.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Oleafly/.github/main/profile/assets/showcase-dark.webp" />
@@ -146,26 +142,28 @@ ordinary folder on your computer, so your work never depends on us.
 
 ## Community
 
-Come say hi. Bring the paper you're working on and tell us where you get
-stuck. A clear bug report, a template for your field or a pull request all help
-the next researcher.
+Come say hi. Bring the paper you're working on and tell us where you get stuck. A clear bug report, a template for your field or a pull request all help the next researcher.
 
+<div align="center">
 <table>
   <tr>
-    <td align="center" width="20%"><a href="https://oleafly.com/discord"><img src="https://raw.githubusercontent.com/Oleafly/.github/main/profile/assets/icons-sky/discord.webp" width="52" alt="" /><br /><b>Discord</b></a><br /><sub>Chat with the team</sub></td>
-    <td align="center" width="20%"><a href="https://github.com/Oleafly/Oleafly/discussions"><img src="https://raw.githubusercontent.com/Oleafly/.github/main/profile/assets/icons-sky/discussions.webp" width="52" alt="" /><br /><b>Discussions</b></a><br /><sub>Ideas and questions</sub></td>
-    <td align="center" width="20%"><a href="https://x.com/OleaflyHQ"><img src="https://raw.githubusercontent.com/Oleafly/.github/main/profile/assets/icons-sky/x.webp" width="52" alt="" /><br /><b>@OleaflyHQ</b></a><br /><sub>Release news</sub></td>
-    <td align="center" width="20%"><a href="https://github.com/Oleafly/Oleafly/blob/main/CONTRIBUTING.md"><img src="https://raw.githubusercontent.com/Oleafly/.github/main/profile/assets/icons-sky/contribute.webp" width="52" alt="" /><br /><b>Contribute</b></a><br /><sub>Code and templates</sub></td>
-    <td align="center" width="20%"><a href="https://github.com/Oleafly/Oleafly/security/policy"><img src="https://raw.githubusercontent.com/Oleafly/.github/main/profile/assets/icons-sky/security.webp" width="52" alt="" /><br /><b>Security</b></a><br /><sub>Report privately</sub></td>
+    <td align="center" valign="top" width="150"><a href="https://oleafly.com/discord"><img src="https://raw.githubusercontent.com/Oleafly/.github/main/profile/assets/icons-sky/discord.webp" width="52" alt="" /><br /><b>Discord</b></a><br /><sub>Chat with the team</sub></td>
+    <td align="center" valign="top" width="150"><a href="https://github.com/Oleafly/Oleafly/discussions"><img src="https://raw.githubusercontent.com/Oleafly/.github/main/profile/assets/icons-sky/discussions.webp" width="52" alt="" /><br /><b>Discussions</b></a><br /><sub>Ideas and questions</sub></td>
+    <td align="center" valign="top" width="150"><a href="https://x.com/OleaflyHQ"><img src="https://raw.githubusercontent.com/Oleafly/.github/main/profile/assets/icons-sky/x.webp" width="52" alt="" /><br /><b>@OleaflyHQ</b></a><br /><sub>Release news</sub></td>
+    <td align="center" valign="top" width="150"><a href="https://github.com/Oleafly/Oleafly/blob/main/CONTRIBUTING.md"><img src="https://raw.githubusercontent.com/Oleafly/.github/main/profile/assets/icons-sky/contribute.webp" width="52" alt="" /><br /><b>Contribute</b></a><br /><sub>Code and templates</sub></td>
+    <td align="center" valign="top" width="150"><a href="https://github.com/Oleafly/Oleafly/security/policy"><img src="https://raw.githubusercontent.com/Oleafly/.github/main/profile/assets/icons-sky/security.webp" width="52" alt="" /><br /><b>Security</b></a><br /><sub>Report privately</sub></td>
   </tr>
 </table>
+</div>
 
 <div align="center">
 <br />
 
-<a href="https://github.com/Oleafly/Oleafly/releases/latest"><img src="https://raw.githubusercontent.com/Oleafly/.github/main/profile/assets/icons-sky/download.webp" width="44" alt="" /></a>
+### Start your next paper in Oleafly
 
-**[Start your next paper in Oleafly](https://github.com/Oleafly/Oleafly/releases/latest)**
+[![Download for macOS (Apple Silicon)](https://raw.githubusercontent.com/Oleafly/.github/main/profile/assets/download-glass-macos.svg)](https://github.com/Oleafly/Oleafly/releases/latest)
+[![Download for Windows](https://raw.githubusercontent.com/Oleafly/.github/main/profile/assets/download-glass-windows.svg)](https://github.com/Oleafly/Oleafly/releases/latest)
+[![Download for Linux](https://raw.githubusercontent.com/Oleafly/.github/main/profile/assets/download-glass-linux.svg)](https://github.com/Oleafly/Oleafly/releases/latest)
 
 <sub>If Oleafly earns a place in your workflow, <a href="https://github.com/Oleafly/Oleafly">give it a star</a> so another researcher can find it.</sub>
 
