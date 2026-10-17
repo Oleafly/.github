@@ -7,11 +7,6 @@
 
 <div align="center">
 
-[![Latest release](https://img.shields.io/github/v/release/Oleafly/Oleafly?style=for-the-badge&label=release&color=2563eb)](https://github.com/Oleafly/Oleafly/releases/latest)
-[![GitHub stars](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2FOleafly%2FOleafly&query=%24.stargazers_count&label=stars&logo=github&style=for-the-badge&color=2563eb)](https://github.com/Oleafly/Oleafly)
-[![Discord](https://img.shields.io/discord/1550031474697437264?style=for-the-badge&logo=discord&logoColor=white&label=discord&color=5865F2)](https://oleafly.com/discord)
-[![License: AGPL-3.0](https://img.shields.io/badge/license-AGPL--3.0-34b44a?style=for-the-badge)](https://github.com/Oleafly/Oleafly/blob/main/LICENSE)
-
 **[Download](https://github.com/Oleafly/Oleafly/releases/latest)** &nbsp;·&nbsp;
 **[Website](https://oleafly.com)** &nbsp;·&nbsp;
 **[Docs](https://oleafly.com/docs/)** &nbsp;·&nbsp;
