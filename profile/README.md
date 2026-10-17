@@ -1,92 +1,177 @@
+<!-- Images live in profile/assets. Light and dark versions swap with GitHub's theme. -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Oleafly/.github/main/profile/assets/banner-dark.webp" />
+  <img src="https://raw.githubusercontent.com/Oleafly/.github/main/profile/assets/banner-light.webp" alt="Oleafly: write your next paper together, with less busywork. LaTeX, Typst and Markdown on Mac, Windows and Linux. Free and open source." width="100%" />
+</picture>
+
 <div align="center">
 
-<img src="https://cdn.oleafly.com/brand/logo/png/oleafly-tile-gradient-256.png" alt="Oleafly logo" width="112" height="112" />
+[![Latest release](https://img.shields.io/github/v/release/Oleafly/Oleafly?style=for-the-badge&label=release&color=2563eb)](https://github.com/Oleafly/Oleafly/releases/latest)
+[![GitHub stars](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2FOleafly%2FOleafly&query=%24.stargazers_count&label=stars&logo=github&style=for-the-badge&color=2563eb)](https://github.com/Oleafly/Oleafly)
+[![Discord](https://img.shields.io/discord/1550031474697437264?style=for-the-badge&logo=discord&logoColor=white&label=discord&color=5865F2)](https://oleafly.com/discord)
+[![License: AGPL-3.0](https://img.shields.io/badge/license-AGPL--3.0-34b44a?style=for-the-badge)](https://github.com/Oleafly/Oleafly/blob/main/LICENSE)
 
-# Oleafly
-
-**Open, local-first infrastructure for research, writing, and publishing.**
-
-Take your next paper all the way. Oleafly brings writing, literature search,
-citations, figures, and AI agents into one desktop workspace. Keep your source
-and compiled PDF side by side, with every project in ordinary files you own.
-
-**LaTeX · Typst · Markdown**<br/>
-Free and open source. macOS, Windows, and Linux. No Oleafly account required.
-
-**[Download Oleafly](https://github.com/Oleafly/Oleafly/releases/latest) ·
-[Read the docs](https://oleafly.com/docs/) ·
-[Explore the app](https://github.com/Oleafly/Oleafly)**
-
-<a href="https://github.com/Oleafly/Oleafly/releases/latest">
-  <img src="https://cdn.oleafly.com/images/screenshots/desktop/hero-light-bg.png" alt="Oleafly with a research paper's LaTeX source, project outline, and compiled PDF open together" width="100%" />
-</a>
+**[Download](https://github.com/Oleafly/Oleafly/releases/latest)** &nbsp;·&nbsp;
+**[Website](https://oleafly.com)** &nbsp;·&nbsp;
+**[Docs](https://oleafly.com/docs/)** &nbsp;·&nbsp;
+**[Templates](https://oleafly.com/templates/)** &nbsp;·&nbsp;
+**[Discord](https://oleafly.com/discord)**
 
 </div>
 
-## Get the work into the paper
+Oleafly is a free, open-source desktop app for research writing. You write
+LaTeX, Typst or Markdown with the compiled PDF beside your source, and the rest
+of the paper's work happens in the same window: finding and citing sources,
+drawing figures, checking a submission, and handing a section to an AI
+assistant or a coding agent when you want the help. Co-authors can edit with
+you in real time through a server your group runs. Every project is still an
+ordinary folder on your computer, so your work never depends on us.
 
-Start with a journal article, a thesis, or a talk. Bring an existing manuscript
-or choose a template, then keep the work around it close:
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Oleafly/.github/main/profile/assets/showcase-dark.webp" />
+  <img src="https://raw.githubusercontent.com/Oleafly/.github/main/profile/assets/showcase-light.webp" alt="A LaTeX paper open in Oleafly, with the project files, the source and the compiled PDF side by side" width="100%" />
+</picture>
 
-- Search scholarly indexes, import your reference library, and cite a source
-  while you write.
-- Edit equations and figures, navigate a long manuscript, and check spelling
-  and grammar locally.
-- Ask the assistant to revise a section, fix a build, or turn an idea into an
-  editable diagram using the files in your project.
-- Compile, inspect the PDF, and run submission checks before exporting the
-  paper or packaging its source.
+## Everything the paper needs, in one window
 
-## Keep writing. Put an agent to work.
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <img src="https://raw.githubusercontent.com/Oleafly/.github/main/profile/assets/icons/collab.webp" width="52" alt="" /><br />
+      <b><a href="https://oleafly.com/docs/collaboration/">Write together, live</a></b><br />
+      <sub>Named cursors, threaded comments and as many co-authors as you need, on an Oleafly Server your group runs. Offline edits merge when you reconnect.</sub>
+    </td>
+    <td width="33%" valign="top">
+      <img src="https://raw.githubusercontent.com/Oleafly/.github/main/profile/assets/icons/formats.webp" width="52" alt="" /><br />
+      <b><a href="https://oleafly.com/docs/engines/">Three formats, no setup</a></b><br />
+      <sub>LaTeX, Typst and Markdown in one app. Tectonic, Typst and Pandoc come bundled, so there's no TeX install.</sub>
+    </td>
+    <td width="33%" valign="top">
+      <img src="https://raw.githubusercontent.com/Oleafly/.github/main/profile/assets/icons/ai.webp" width="52" alt="" /><br />
+      <b><a href="https://oleafly.com/docs/ai-setup/">AI you choose</a></b><br />
+      <sub>A key for one of 10 providers, a local model through Ollama, or one of 14 CLI agents such as Claude Code and Codex. Every edit arrives as a diff you review.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <img src="https://raw.githubusercontent.com/Oleafly/.github/main/profile/assets/icons/cite.webp" width="52" alt="" /><br />
+      <b><a href="https://oleafly.com/docs/literature-search/">Find and cite</a></b><br />
+      <sub>Search arXiv, Semantic Scholar, Crossref, PubMed and OpenAlex at once. Cite from Zotero, BibTeX or RIS as you type.</sub>
+    </td>
+    <td width="33%" valign="top">
+      <img src="https://raw.githubusercontent.com/Oleafly/.github/main/profile/assets/icons/tasks.webp" width="52" alt="" /><br />
+      <b><a href="https://oleafly.com/docs/research-tasks/">Research Tasks</a></b><br />
+      <sub>Give an agent a brief. It works in its own copy of the project while you keep writing, and you apply what you like.</sub>
+    </td>
+    <td width="33%" valign="top">
+      <img src="https://raw.githubusercontent.com/Oleafly/.github/main/profile/assets/icons/preflight.webp" width="52" alt="" /><br />
+      <b><a href="https://oleafly.com/docs/preflight/">Ready to submit</a></b><br />
+      <sub>Preflight checks the build, venue rules, ATS parsing, accessibility, references and leftover metadata before you send.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <img src="https://raw.githubusercontent.com/Oleafly/.github/main/profile/assets/icons/diagrams.webp" width="52" alt="" /><br />
+      <b><a href="https://oleafly.com/docs/figures-diagrams/">Figures and diagrams</a></b><br />
+      <sub>Sketch on a canvas and get TikZ, Typst or Mermaid back.</sub>
+    </td>
+    <td width="33%" valign="top">
+      <img src="https://raw.githubusercontent.com/Oleafly/.github/main/profile/assets/icons/git.webp" width="52" alt="" /><br />
+      <b><a href="https://oleafly.com/docs/git-history/">Yours, in Git</a></b><br />
+      <sub>Plain folders, a checkpoint after every good compile, and a Git panel that publishes to GitHub.</sub>
+    </td>
+    <td width="33%" valign="top">
+      <img src="https://raw.githubusercontent.com/Oleafly/.github/main/profile/assets/icons/templates.webp" width="52" alt="" /><br />
+      <b><a href="https://oleafly.com/templates/">Templates</a></b><br />
+      <sub>1,800+ templates in 24 packs for papers, theses, CVs, slides and posters.</sub>
+    </td>
+  </tr>
+</table>
 
-Give a Research Task a focused brief: check the sources behind a claim,
-analyze a dataset, or revise the methods section. The agent works in a separate
-copy of the project while you keep writing. Review the changed files, apply
-what you want to keep, and compile the result. The task stays with the project.
+## A closer look
 
-Bring Claude Code, Codex, Gemini CLI, or another supported CLI agent through
-its own account. You can also connect a hosted model or use Ollama locally.
-Connect external assistants through MCP, or use the editor with AI switched off.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://raw.githubusercontent.com/Oleafly/.github/main/profile/assets/shot-ai.webp" alt="The AI assistant tightening an abstract, with the changed lines shown as a diff" width="100%" /><br />
+      <sub>Every AI edit is a diff you can accept or undo.</sub>
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://raw.githubusercontent.com/Oleafly/.github/main/profile/assets/shot-cite.webp" alt="Citation Search with results from several scholarly indexes" width="100%" /><br />
+      <sub>Search five scholarly indexes in one go.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://raw.githubusercontent.com/Oleafly/.github/main/profile/assets/shot-git.webp" alt="The Source Control panel with a side-by-side diff" width="100%" /><br />
+      <sub>Review changes in the built-in Git panel.</sub>
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://raw.githubusercontent.com/Oleafly/.github/main/profile/assets/shot-typst.webp" alt="A Typst thesis with its outline and the compiled title page" width="100%" /><br />
+      <sub>Typst, with the outline and a live preview.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://raw.githubusercontent.com/Oleafly/.github/main/profile/assets/shot-preflight.webp" alt="Preflight checks with build and submission scores beside the PDF" width="100%" /><br />
+      <sub>Preflight scores the paper before a reviewer does.</sub>
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://raw.githubusercontent.com/Oleafly/.github/main/profile/assets/shot-diagram.webp" alt="Diagram Composer showing a transformer block diagram" width="100%" /><br />
+      <sub>Draw a diagram and keep it as editable source.</sub>
+    </td>
+  </tr>
+</table>
 
-Use research skills for literature reviews, claim checks, and responses to
-reviewers. Save a procedure of your own for the next project.
+## Projects
 
-Research Tasks and CLI agent support are in beta.
-[See the research workflow](https://oleafly.com/docs/research-tasks/).
+<table>
+  <tr>
+    <td width="72" align="center"><img src="https://raw.githubusercontent.com/Oleafly/.github/main/profile/assets/icons/app.webp" width="48" alt="" /></td>
+    <td><b><a href="https://github.com/Oleafly/Oleafly">Oleafly</a></b><br />The desktop app. Write, compile, collaborate, work with agents and get a paper ready to submit.</td>
+  </tr>
+  <tr>
+    <td width="72" align="center"><img src="https://raw.githubusercontent.com/Oleafly/.github/main/profile/assets/icons/server.webp" width="48" alt="" /></td>
+    <td><b><a href="https://github.com/Oleafly/oleafly-server">Oleafly Server</a></b><br />Run your own collaboration server: one-command install, an admin console and single sign-on. Read <a href="https://oleafly.com/security/">how it handles security</a>.</td>
+  </tr>
+  <tr>
+    <td width="72" align="center"><img src="https://raw.githubusercontent.com/Oleafly/.github/main/profile/assets/icons/templates.webp" width="48" alt="" /></td>
+    <td><b><a href="https://github.com/Oleafly/template-packs">Template packs</a></b><br />Openly licensed templates for papers, theses, CVs, slides, posters and reports.</td>
+  </tr>
+  <tr>
+    <td width="72" align="center"><img src="https://raw.githubusercontent.com/Oleafly/.github/main/profile/assets/icons/web.webp" width="48" alt="" /></td>
+    <td><b><a href="https://oleafly.com">oleafly.com</a></b><br />Downloads, docs, a directory of 5,000+ templates and free browser tools for LaTeX.</td>
+  </tr>
+  <tr>
+    <td width="72" align="center"><img src="https://raw.githubusercontent.com/Oleafly/.github/main/profile/assets/icons/docmut.webp" width="48" alt="" /></td>
+    <td><b><a href="https://github.com/prajwal-svm/docmut">DocMut</a></b><br />Inject controlled faults into LaTeX, Typst and Markdown documents to test repair tools and agents.</td>
+  </tr>
+</table>
 
-## Keep the work yours
+## Community
 
-Your manuscript, sources, and figures live in plain folders on your computer.
-Successful compiles save checkpoints you can return to. Use Git when you want
-commits, diffs, and shared history, with GitHub sync available in the app.
+Come say hi. Bring the paper you're working on and tell us where you get
+stuck. A clear bug report, a template for your field or a pull request all help
+the next researcher.
 
-The desktop app is free under AGPL-3.0. Open your files in another editor
-whenever you want. Your work stays useful beyond any one app.
-
-## Explore the projects
-
-| Project | What it is |
-|---|---|
-| [**Oleafly**](https://github.com/Oleafly/Oleafly) | The desktop research workspace. Write, compile, work with agents, review changes, and prepare a paper for submission. |
-| [**Template packs**](https://github.com/Oleafly/template-packs) | Downloadable starters for papers, theses, presentations, and more. Preview a layout and make it yours. |
-| [**Website & docs**](https://oleafly.com) | Downloads, product guides, templates, and free tools for your writing. |
-| [**DocMut**](https://github.com/prajwal-svm/docmut) | Inject controlled faults into LaTeX, Typst, and Markdown documents to test repair tools and agents. |
-
-## Help shape what comes next
-
-Bring a paper you're working on. Tell us where you get stuck. A useful bug
-report, a template for your field, or a contribution to the editor can make
-the next researcher's day easier.
+<table>
+  <tr>
+    <td align="center" width="20%"><a href="https://oleafly.com/discord"><img src="https://raw.githubusercontent.com/Oleafly/.github/main/profile/assets/icons/discord.webp" width="52" alt="" /><br /><b>Discord</b></a><br /><sub>Chat with the team</sub></td>
+    <td align="center" width="20%"><a href="https://github.com/Oleafly/Oleafly/discussions"><img src="https://raw.githubusercontent.com/Oleafly/.github/main/profile/assets/icons/discussions.webp" width="52" alt="" /><br /><b>Discussions</b></a><br /><sub>Ideas and questions</sub></td>
+    <td align="center" width="20%"><a href="https://x.com/OleaflyHQ"><img src="https://raw.githubusercontent.com/Oleafly/.github/main/profile/assets/icons/x.webp" width="52" alt="" /><br /><b>@OleaflyHQ</b></a><br /><sub>Release news</sub></td>
+    <td align="center" width="20%"><a href="https://github.com/Oleafly/Oleafly/blob/main/CONTRIBUTING.md"><img src="https://raw.githubusercontent.com/Oleafly/.github/main/profile/assets/icons/contribute.webp" width="52" alt="" /><br /><b>Contribute</b></a><br /><sub>Code and templates</sub></td>
+    <td align="center" width="20%"><a href="https://github.com/Oleafly/Oleafly/security/policy"><img src="https://raw.githubusercontent.com/Oleafly/.github/main/profile/assets/icons/security.webp" width="52" alt="" /><br /><b>Security</b></a><br /><sub>Report privately</sub></td>
+  </tr>
+</table>
 
 <div align="center">
+<br />
+
+<a href="https://github.com/Oleafly/Oleafly/releases/latest"><img src="https://raw.githubusercontent.com/Oleafly/.github/main/profile/assets/icons/download.webp" width="44" alt="" /></a>
 
 **[Start your next paper in Oleafly](https://github.com/Oleafly/Oleafly/releases/latest)**
 
-If Oleafly earns a place in your workflow, [give it a star ⭐](https://github.com/Oleafly/Oleafly)
-so another researcher can find it.
-
-[Join the discussion](https://github.com/Oleafly/Oleafly/discussions) ·
-[Report an issue](https://github.com/Oleafly/Oleafly/issues) ·
-[Contribute](https://github.com/Oleafly/Oleafly/blob/main/CONTRIBUTING.md)
+<sub>If Oleafly earns a place in your workflow, <a href="https://github.com/Oleafly/Oleafly">give it a star</a> so another researcher can find it.</sub>
 
 </div>
